@@ -1,0 +1,11 @@
+anchor=top-right
+default-timeout=60
+width=400
+outer-margin=32
+padding=10
+border-size=2
+max-icon-size=32
+font=JetBrainsMono Nerd Font 14px
+text-color=#ebdbb2
+border-color=#ebdbb2
+background-color=#282828
