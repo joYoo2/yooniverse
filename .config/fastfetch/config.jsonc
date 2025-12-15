@@ -19,6 +19,7 @@
             "type": "title",
             "keyWidth": 10
         },
+	"break",
                 {
             "type": "os",
             "key": "{icon} OS",
