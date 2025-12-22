@@ -1,0 +1,19 @@
+# --- Zephyr core ---
+mattmc3/zephyr path:plugins/color
+mattmc3/zephyr path:plugins/completion
+mattmc3/zephyr path:plugins/compstyle
+mattmc3/zephyr path:plugins/directory
+mattmc3/zephyr path:plugins/editor
+mattmc3/zephyr path:plugins/history
+mattmc3/zephyr path:plugins/utility
+mattmc3/zephyr path:plugins/prompt
+mattmc3/zephyr path:plugins/zfunctions
+
+# --- Extra completion definitions ---
+zsh-users/zsh-completions
+
+# --- Fish-like UX plugins ---
+zsh-users/zsh-autosuggestions
+zdharma-continuum/fast-syntax-highlighting kind:defer
+zsh-users/zsh-history-substring-search
+
